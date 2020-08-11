@@ -17,7 +17,7 @@ A sample of the synthetic COVID-19 dataset is as follows:
 
 The synthetic COVID-19 dataset in the project can be downloaded in
 
-[Download](https://data.mendeley.com/datasets/kdn5v76wb3/draft?a=3e5dcd8d-f132-4458-9508-d96a299f1321)
+[Download](https://data.mendeley.com/datasets/kdn5v76wb3/draft?preview=1)
 
 These codes are used to synthesize COVID-19 images, and this data set can be used for further analysis of COVID-19, such as classification experiments.
 
